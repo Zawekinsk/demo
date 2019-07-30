@@ -1,14 +1,8 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+	{"id":1,"first_name":"John","last_name":"Wick"},
+	{"id":2,"first_name":"Margaret","last_name":"Thatcher"},
+	{"id":3,"first_name":"Sean","last_name":"Connery"},
+	{"id":4,"first_name":"Susan","last_name":"Boyle"},
+	{"id":5,"first_name":"Brad","last_name":"Pitt"},
+	{"id":6,"first_name":"Vladimir","last_name":"Lenin"}
+]
